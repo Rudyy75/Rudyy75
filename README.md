@@ -8,18 +8,6 @@ I like building systems that connect software with the physical world, whether t
 
 Currently turning caffeine into robots and research.
 
-### Current Status
-
-```text
-Building robots............. ██████████ 100%
-
-Understanding why they broke ██████████ 100%
-
-Fixing bugs................. ███████░░░ 70%
-
-Touching grass.............. ██░░░░░░░░ 20%
-```
-
 ### Outside of Engineering
 
 Football • Gaming • Anime • Doomscrolling
