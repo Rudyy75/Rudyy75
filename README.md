@@ -1,21 +1,25 @@
 ### Hey there, 👋
 
-I'm Aniruddh, an engineer who enjoys building things that can think, see, and move.
+I'm Aniruddh, an engineer who enjoys building systems that think, see, and move.
 
-Most of my time is spent building projects in robotics, AI/ML, computer vision, and embedded systems, usually somewhere between a new idea and a debugging session.
+I work across **AI infrastructure, agent systems, systems engineering, and robotics** - from building LLM inference pipelines and evaluating autonomous agents to optimizing C++ systems and developing robots.
 
-I like building systems that connect software with the physical world, whether that's training models, programming robots, or convincing hardware to cooperate.
+I'm particularly interested in **AI agents, LLM evaluation, inference optimization, and high-performance computing**. I enjoy understanding how things work under the hood, squeezing performance out of software, and turning ambitious ideas into working systems.
 
-Currently turning caffeine into robots and research.
+Currently exploring the intersection of **intelligent agents, AI systems, and robotics**.
 
 ### Outside of Engineering
 
 Football • Gaming • Anime • Doomscrolling
 
-### Tech I Mess Around With 👾
+### Tech I Work With 👾
 
-**Languages:** C/C++, Python, JavaScript, SQL
+**Languages:** C/C++, Python, JavaScript
 
-**Robotics:** ROS2, Raspberry Pi, Custom PCBs
+**AI/ML:** PyTorch, OpenCV, YOLO, LLMs & Agents
 
-**AI/ML:** OpenCV, PyTorch, TensorFlow, YOLO
+**Systems & Infrastructure:** Linux, CUDA, AVX2, ONNX Runtime
+
+**Robotics & Embedded:** ROS2, Embedded C/C++, Raspberry Pi
+
+
